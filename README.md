@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kertasputih88 - That's white paper in Bahasa Melayu
+- 👋 Hi, my name is Yusof, I live in Kuala Lumpur Malaysia
 - 👀 I’m interested in ... exploring and learning more about developing web applications.
 - 🌱 I’m currently learning ... HTML, CSS, and Javascript - well in this order
-- 💞️ I’m looking to collaborate on ... simple word games
+- 💞️ I’m looking to collaborate on ... anything to gain more experience towards embracing and understanding new upcoming tech.
 - 📫 How to reach me ... @nikyusof on Twitter!
 
 <!---
